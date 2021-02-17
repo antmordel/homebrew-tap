@@ -1,4 +1,4 @@
-# Antmordel Tap
+# Nito Tap
 
 ## How do I install these formulae?
 `brew install antmordel/tap/<formula>`
